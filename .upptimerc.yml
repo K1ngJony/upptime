@@ -3,9 +3,9 @@ owner: K1ngJony # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: jonathanschirmer.com
+  - name: Homepage (www.jonathanschirmer.com)
     url: https://www.jonathanschirmer.com
-  - name: Plex
+  - name: Schirmer Plex Server
     url: http://www.jonathanschirmer.com:32400
   - name: Plex Authentication & API
     url: https://plex.tv
@@ -19,10 +19,10 @@ status-website:
   cname: status.jonathanschirmer.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Schirmer Plex Server
-  # introTitle: "**Schirmer Plex Server** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Media Server Status
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-   navbar:
+  navbar:
     - title: Status
       href: /
     - title: GitHub
