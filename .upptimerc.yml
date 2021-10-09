@@ -6,7 +6,7 @@ sites:
   - name: Homepage (www.jonathanschirmer.com)
     url: https://www.jonathanschirmer.com
   - name: Schirmer Plex Server
-    url: http://www.jonathanschirmer.com:32400
+    url: 'http://www.jonathanschirmer.com:32400'
   - name: Plex Authentication & API
     url: https://plex.tv
 
