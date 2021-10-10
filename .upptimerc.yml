@@ -3,17 +3,21 @@ owner: K1ngJony # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Homepage (www.jonathanschirmer.com)
+  - name: Homepage
     url: https://www.jonathanschirmer.com
+    icon: https://jonathanschirmer.com/plugins/images/favicon/favicon.ico
   - name: Schirmer Plex Server
     check: "tcp-ping"
     url: jonathanschirmer.com
     port: 32400
+    icon: https://plex.tv/favicon.ico
   - name: Plex Authentication & API
     url: https://plex.tv
-
-# assignees: # Users to assign downtime issues (optional)
-#  - AnandChowdhary
+  - name: Requests
+    url: https://overseerr.jonathanschirmer.com
+    icon: https://overseerr.dev/favicon.ico
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
