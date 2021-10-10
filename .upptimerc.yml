@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Homepage (www.jonathanschirmer.com)
     url: https://www.jonathanschirmer.com
-  #- name: Schirmer Plex Server
-  #  url: https://plex.jonathanschirmer.com
+  - name: Schirmer Plex Server
+    url: https://plex.jonathanschirmer.com
   - name: Plex Authentication & API
     url: https://plex.tv
 
