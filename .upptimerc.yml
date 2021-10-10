@@ -9,6 +9,8 @@ sites:
     url: https://plex.jonathanschirmer.com
   - name: Plex Authentication & API
     url: https://plex.tv
+  - name: Home Assistant
+    url: https://homeassistant.jonathanschirmer.com
 
 # assignees: # Users to assign downtime issues (optional)
 #  - AnandChowdhary
