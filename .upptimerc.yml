@@ -17,8 +17,9 @@ sites:
     url: https://overseerr.jonathanschirmer.com
     icon: https://overseerr.dev/favicon.ico
     expectedStatusCodes:
-      - 401
       - 302
+      - 401
+      - 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -34,6 +35,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
