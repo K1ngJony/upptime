@@ -15,11 +15,12 @@ sites:
       - 401
   - name: Plex Authentication & API
     url: https://plex.tv
-  - name: Requests
-    url: https://overseerr.jonathanschirmer.com
-    icon: https://overseerr.dev/favicon.ico
-    expectedStatusCodes:
-      - 401
+  #- name: Requests
+  #  url: https://overseerr.jonathanschirmer.com
+  #  icon: https://overseerr.dev/favicon.ico
+  #  expectedStatusCodes:
+  #    - 200
+  #    - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
