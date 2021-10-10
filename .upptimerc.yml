@@ -6,7 +6,9 @@ sites:
   - name: Homepage (www.jonathanschirmer.com)
     url: https://www.jonathanschirmer.com
   - name: Schirmer Plex Server
-    url: http://plex.jonathanschirmer.com
+    check: "tcp-ping"
+    url: jonathanschirmer.com
+    port: 32400
   - name: Plex Authentication & API
     url: https://plex.tv
 
