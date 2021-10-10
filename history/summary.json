@@ -1,28 +1,26 @@
 [
   {
-    "name": "Homepage (www.jonathanschirmer.com)",
+    "name": "Homepage",
     "url": "https://www.jonathanschirmer.com",
-    "icon": "https://favicons.githubusercontent.com/www.jonathanschirmer.com",
-    "slug": "homepage-www-jonathanschirmer-com",
+    "icon": "https://jonathanschirmer.com/plugins/images/favicon/favicon.ico",
+    "slug": "homepage",
     "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "98.39%",
-    "time": 1084,
-    "timeDay": 1084,
-    "timeWeek": 1084,
-    "timeMonth": 1084,
-    "timeYear": 1084,
-    "dailyMinutesDown": {
-      "2021-10-10": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1022,
+    "timeDay": 1022,
+    "timeWeek": 1022,
+    "timeMonth": 1022,
+    "timeYear": 1022,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Schirmer Plex Server",
     "url": "jonathanschirmer.com",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://plex.tv/favicon.ico",
     "slug": "schirmer-plex-server",
     "status": "up",
     "uptime": "100.00%",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 462,
-    "timeWeek": 462,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "time": 432,
+    "timeDay": 432,
+    "timeWeek": 432,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 744,
-    "timeWeek": 744,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "time": 749,
+    "timeDay": 749,
+    "timeWeek": 749,
+    "timeMonth": 749,
+    "timeYear": 749,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Requests",
+    "url": "https://overseerr.jonathanschirmer.com",
+    "icon": "https://overseerr.dev/favicon.ico",
+    "slug": "requests",
+    "status": "down",
+    "uptime": "43.87%",
+    "uptimeDay": "43.87%",
+    "uptimeWeek": "43.87%",
+    "uptimeMonth": "43.87%",
+    "uptimeYear": "43.87%",
+    "time": 819,
+    "timeDay": 819,
+    "timeWeek": 819,
+    "timeMonth": 819,
+    "timeYear": 819,
+    "dailyMinutesDown": {
+      "2021-10-10": 0
+    }
   }
 ]
