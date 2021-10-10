@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1232,
-    "timeDay": 1232,
-    "timeWeek": 1232,
-    "timeMonth": 1232,
-    "timeYear": 1232,
+    "time": 1201,
+    "timeDay": 1201,
+    "timeWeek": 1201,
+    "timeMonth": 1201,
+    "timeYear": 1201,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 369,
-    "timeWeek": 369,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 727,
-    "timeWeek": 727,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Requests",
-    "url": "https://overseerr.jonathanschirmer.com",
-    "icon": "https://overseerr.dev/favicon.ico",
-    "slug": "requests",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 1780,
-    "timeDay": 1780,
-    "timeWeek": 1780,
-    "timeMonth": 1780,
-    "timeYear": 1780,
-    "dailyMinutesDown": {
-      "2021-10-10": 249
-    }
   }
 ]
