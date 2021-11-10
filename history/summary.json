@@ -5,15 +5,15 @@
     "icon": "https://jonathanschirmer.com/plugins/images/favicon/favicon.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "97.58%",
-    "uptimeYear": "97.60%",
+    "uptimeYear": "97.64%",
     "time": 1150,
     "timeDay": 983,
     "timeWeek": 1081,
-    "timeMonth": 1150,
+    "timeMonth": 1147,
     "timeYear": 1150,
     "dailyMinutesDown": {
       "2021-11-07": 22,
@@ -38,7 +38,7 @@
     "time": 315,
     "timeDay": 185,
     "timeWeek": 202,
-    "timeMonth": 313,
+    "timeMonth": 276,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2021-10-11": 33
@@ -49,7 +49,7 @@
     "url": "https://plex.tv",
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex-authentication-and-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,8 +58,10 @@
     "time": 735,
     "timeDay": 755,
     "timeWeek": 761,
-    "timeMonth": 732,
+    "timeMonth": 735,
     "timeYear": 735,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   }
 ]
