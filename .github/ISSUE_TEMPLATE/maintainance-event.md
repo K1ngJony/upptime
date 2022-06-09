@@ -1,10 +1,9 @@
 ---
 name: Maintenance Event
 about: Schedule a work window
-title: "Site down for Maintenance"
+title: "Server down for maintenance"
 labels: maintenance
 assignees: ''
-
 ---
 
 <!--
