@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 1181,
-    "timeDay": 990,
-    "timeWeek": 1062,
-    "timeMonth": 1032,
-    "timeYear": 1181,
+    "timeDay": 1129,
+    "timeWeek": 1080,
+    "timeMonth": 1033,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2022-08-22": 121,
       "2022-08-11": 24,
@@ -48,8 +48,7 @@
       "2021-11-01": 92,
       "2021-10-29": 556,
       "2021-10-28": 216,
-      "2021-10-15": 143,
-      "2021-10-11": 33
+      "2021-10-15": 143
     }
   },
   {
@@ -58,16 +57,16 @@
     "icon": "https://plex.tv/favicon.ico",
     "slug": "schirmer-plex-server",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 229,
-    "timeDay": 222,
-    "timeWeek": 259,
+    "timeDay": 281,
+    "timeWeek": 264,
     "timeMonth": 248,
-    "timeYear": 225,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2022-09-06": 24,
       "2022-08-22": 120,
@@ -81,8 +80,7 @@
       "2022-06-24": 542,
       "2022-06-23": 153,
       "2022-06-05": 449,
-      "2022-06-01": 21,
-      "2021-10-11": 33
+      "2022-06-01": 21
     }
   },
   {
@@ -96,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 944,
-    "timeDay": 576,
-    "timeWeek": 495,
+    "time": 943,
+    "timeDay": 393,
+    "timeWeek": 466,
     "timeMonth": 539,
-    "timeYear": 948,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2022-08-24": 60,
       "2022-08-05": 16,
