@@ -5,16 +5,16 @@
     "icon": "https://jonathanschirmer.com/plugins/images/favicon/favicon.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.35%",
-    "time": 1164,
-    "timeDay": 970,
-    "timeWeek": 1011,
+    "time": 1163,
+    "timeDay": 1061,
+    "timeWeek": 1018,
     "timeMonth": 1019,
-    "timeYear": 1166,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2022-11-09": 70,
       "2022-10-26": 123,
@@ -41,8 +41,7 @@
       "2022-01-04": 26,
       "2021-12-27": 18,
       "2021-12-26": 349,
-      "2021-12-14": 39,
-      "2021-12-02": 63
+      "2021-12-14": 39
     }
   },
   {
@@ -57,8 +56,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.51%",
     "time": 231,
-    "timeDay": 228,
-    "timeWeek": 230,
+    "timeDay": 252,
+    "timeWeek": 231,
     "timeMonth": 238,
     "timeYear": 221,
     "dailyMinutesDown": {
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 893,
-    "timeDay": 602,
-    "timeWeek": 484,
+    "time": 892,
+    "timeDay": 378,
+    "timeWeek": 444,
     "timeMonth": 473,
-    "timeYear": 924,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2022-08-24": 60,
       "2022-08-05": 16,
