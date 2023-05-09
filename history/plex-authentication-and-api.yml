@@ -1,7 +1,7 @@
 url: https://plex.tv
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2023-05-08T23:12:56.835Z
+status: down
+code: 521
+responseTime: 375
+lastUpdated: 2023-05-09T18:56:33.880Z
 startTime: Sat Oct 09 2021 13:06:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
