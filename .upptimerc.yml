@@ -6,6 +6,7 @@ sites:
   - name: Homepage
     url: https://jonathanschirmer.com
     icon: https://jonathanschirmer.com/plugins/images/favicon/favicon.ico
+    maxResponseTime: 500
   - name: Plex Server
     check: "tcp-ping"
     url: jonathanschirmer.com
@@ -38,5 +39,3 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: night
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
