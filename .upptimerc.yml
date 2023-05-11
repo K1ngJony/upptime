@@ -6,7 +6,7 @@ sites:
   - name: Homepage
     url: https://jonathanschirmer.com
     icon: https://jonathanschirmer.com/plugins/images/favicon/favicon.ico
-    maxResponseTime: 500
+    maxResponseTime: 200
   - name: Plex Server
     check: "tcp-ping"
     url: jonathanschirmer.com
