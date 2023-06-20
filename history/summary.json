@@ -6,17 +6,16 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
-    "time": 1172,
-    "timeDay": 1168,
+    "time": 1173,
+    "timeDay": 1304,
     "timeWeek": 1305,
-    "timeMonth": 1342,
-    "timeYear": 1197,
+    "timeMonth": 1343,
+    "timeYear": 1199,
     "dailyMinutesDown": {
-      "2023-06-19": 8,
       "2023-05-17": 17,
       "2023-05-09": 17,
       "2023-05-08": 17,
@@ -43,8 +42,7 @@
       "2022-07-26": 19,
       "2022-07-11": 171,
       "2022-06-24": 542,
-      "2022-06-23": 155,
-      "2022-06-20": 29
+      "2022-06-23": 155
     }
   },
   {
@@ -53,19 +51,17 @@
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 194,
+    "timeDay": 218,
     "timeWeek": 223,
-    "timeMonth": 237,
+    "timeMonth": 236,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2023-06-19": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex Authentication & API",
@@ -79,7 +75,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 855,
-    "timeDay": 607,
+    "timeDay": 423,
     "timeWeek": 1141,
     "timeMonth": 1052,
     "timeYear": 781,
