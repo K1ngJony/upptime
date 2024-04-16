@@ -6,6 +6,8 @@ sites:
   - name: Homepage
     url: https://jonathanschirmer.com
     icon: https://jonathanschirmer.com/plugins/images/favicon/favicon.ico
+    expectedStatusCodes:
+      - 403
     #maxResponseTime: 2000
   - name: Plex Server
     check: "tcp-ping"
@@ -14,6 +16,7 @@ sites:
     icon: https://plex.tv/favicon.ico
     expectedStatusCodes:
       - 401
+      - 403
   - name: Plex Authentication & API
     url: https://plex.tv
   #- name: Requests
