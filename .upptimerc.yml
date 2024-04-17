@@ -14,7 +14,7 @@ sites:
   - name: Plex Server
     check: "tcp-ping"
     url: jonathanschirmer.com
-    port: 8080
+    port: 32400
     icon: https://plex.tv/favicon.ico
     expectedStatusCodes:
       - 200
