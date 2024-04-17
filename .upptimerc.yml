@@ -7,16 +7,21 @@ sites:
     url: https://jonathanschirmer.com
     icon: https://jonathanschirmer.com/plugins/images/favicon/favicon.ico
     expectedStatusCodes:
+      - 200
+      - 201
       - 403
-    #maxResponseTime: 2000
+    maxResponseTime: 10000
   - name: Plex Server
     check: "tcp-ping"
     url: jonathanschirmer.com
     port: 32400
     icon: https://plex.tv/favicon.ico
     expectedStatusCodes:
+      - 200
+      - 201
       - 401
       - 403
+    maxResponseTime: 10000
   - name: Plex Authentication & API
     url: https://plex.tv
   #- name: Requests
@@ -24,6 +29,7 @@ sites:
   #  icon: https://overseerr.dev/favicon.ico
   #  expectedStatusCodes:
   #    - 200
+  #    - 201
   #    - 401
 
 status-website:
