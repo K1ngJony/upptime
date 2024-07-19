@@ -59,7 +59,7 @@
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,9 +105,9 @@
     "url": "https://plex.tv",
     "icon": "https://icons.duckduckgo.com/ip3/plex.tv.ico",
     "slug": "plex-authentication-and-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -117,6 +117,7 @@
     "timeMonth": 405,
     "timeYear": 767,
     "dailyMinutesDown": {
+      "2024-07-19": 0,
       "2023-09-13": 70
     }
   }
