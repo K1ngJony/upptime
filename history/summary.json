@@ -76,17 +76,19 @@
     "url": "https://plex.tv",
     "icon": "https://icons.duckduckgo.com/ip3/plex.tv.ico",
     "slug": "plex-authentication-and-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 351,
-    "timeWeek": 558,
-    "timeMonth": 498,
-    "timeYear": 503,
-    "dailyMinutesDown": {}
+    "time": 522,
+    "timeDay": 10103,
+    "timeWeek": 2970,
+    "timeMonth": 1103,
+    "timeYear": 556,
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   }
 ]
