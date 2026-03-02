@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.66%",
     "time": 1069,
-    "timeDay": 1183,
-    "timeWeek": 1118,
-    "timeMonth": 1109,
+    "timeDay": 1228,
+    "timeWeek": 1160,
+    "timeMonth": 1117,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-02-14": 41,
@@ -30,8 +30,7 @@
       "2025-05-27": 17,
       "2025-03-22": 17,
       "2025-03-20": 16,
-      "2025-03-03": 17,
-      "2025-03-02": 25
+      "2025-03-03": 17
     }
   },
   {
@@ -46,9 +45,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.76%",
     "time": 187,
-    "timeDay": 199,
-    "timeWeek": 194,
-    "timeMonth": 191,
+    "timeDay": 209,
+    "timeWeek": 202,
+    "timeMonth": 192,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2026-02-14": 39,
@@ -65,8 +64,7 @@
       "2025-06-27": 47,
       "2025-05-27": 16,
       "2025-03-22": 16,
-      "2025-03-03": 16,
-      "2025-03-02": 24
+      "2025-03-03": 16
     }
   },
   {
@@ -76,17 +74,16 @@
     "slug": "plex-authentication-and-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 565,
-    "timeDay": 701,
-    "timeWeek": 978,
-    "timeMonth": 909,
-    "timeYear": 603,
+    "time": 566,
+    "timeDay": 790,
+    "timeWeek": 920,
+    "timeMonth": 893,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2026-03-01": 8,
       "2025-12-05": 30
     }
   }
