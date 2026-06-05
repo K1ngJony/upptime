@@ -4,16 +4,16 @@
     "url": "https://jonathanschirmer.com",
     "icon": "https://jonathanschirmer.com/plugins/images/favicon/favicon.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.58%",
-    "time": 1079,
-    "timeDay": 1136,
-    "timeWeek": 1172,
-    "timeMonth": 1142,
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "98.56%",
+    "time": 1080,
+    "timeDay": 1174,
+    "timeWeek": 1177,
+    "timeMonth": 1144,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2025-06-27": 48,
@@ -35,7 +35,7 @@
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1325,
-      "2026-06-05": 1
+      "2026-06-05": 89
     }
   },
   {
@@ -43,16 +43,16 @@
     "url": "jonathanschirmer.com",
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.67%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "98.65%",
     "time": 187,
-    "timeDay": 204,
-    "timeWeek": 203,
-    "timeMonth": 194,
+    "timeDay": 207,
+    "timeWeek": 204,
+    "timeMonth": 195,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2025-06-27": 47,
@@ -76,7 +76,7 @@
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1324,
-      "2026-06-05": 0
+      "2026-06-05": 88
     }
   },
   {
