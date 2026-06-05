@@ -4,10 +4,10 @@
     "url": "https://jonathanschirmer.com",
     "icon": "https://jonathanschirmer.com/plugins/images/favicon/favicon.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.58%",
     "time": 1079,
@@ -34,7 +34,8 @@
       "2026-05-04": 731,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
-      "2026-05-01": 1325
+      "2026-05-01": 1325,
+      "2026-06-05": 1
     }
   },
   {
@@ -42,9 +43,9 @@
     "url": "jonathanschirmer.com",
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
@@ -74,7 +75,8 @@
       "2026-05-04": 731,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
-      "2026-05-01": 1324
+      "2026-05-01": 1324,
+      "2026-06-05": 0
     }
   },
   {
