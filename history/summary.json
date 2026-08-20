@@ -41,9 +41,9 @@
     "url": "jonathanschirmer.com",
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.66%",
@@ -72,7 +72,8 @@
       "2026-05-02": 1440,
       "2026-05-01": 1324,
       "2026-06-05": 88,
-      "2026-08-17": 60
+      "2026-08-17": 60,
+      "2026-08-20": 0
     }
   },
   {
